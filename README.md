@@ -18,5 +18,5 @@ B2 : python training.py
 
 B3 : python face_recognition.py
 
-## result
+## Result
 ![image](https://user-images.githubusercontent.com/55219637/129933419-553b853e-ba9c-440e-9c6c-e59d9ee098dd.png)
