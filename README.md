@@ -1,5 +1,5 @@
 # FACE DETECTION
-##-----Install
+## -----Install
 
 pip install opencv-python
 
@@ -12,7 +12,7 @@ pip install face
 pip install opencv-contrib-python
 
 
-##----- Run
+## ----- Run
 
 B1 : python face_dataset.py
 
